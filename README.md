@@ -1,19 +1,19 @@
-# Alknighty Game
+# alknighty-game
 
-Alknighty is a 2D platformer in a medieval setting. The game consists of two locations. Your target is to find the treasure in the castle. On your way you will meet a lot of traps and enemies.
+Alknighty - 2D платформер в средневековом сеттинге. В игре есть две локации. Цель игрока: найти сокровище в замке. На своем пути ему предстоит столкнуться с различными ловушками и врагами.
 
-This game is written on C# using Unity2D.
+Игра написана на C# и Unity2D.
 
-**Controls:**
+**Управление:**
 
-> Arrows - movement
+> Стрелочки - движение 
 
-> Left Mouse Button - attack
+> ЛКМ - атака
 
-How to run:
+**Запуск:**
 
-> Launch Alknighty.exe from game
+> Запустить alknighty.exe из папки game
 
-Source files are stored in src/Assets
+Исходный код лежит в src/Assets
 
 ![giphy gif](https://github.com/dyakov-kirill/Alknighty-game/blob/68a2fedb53c3a2118467d0a6f2cd33cacebbb35e/game/Presentation.gif)
